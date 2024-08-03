@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vatsal Sharma</h1>
+<h1 align="center">Hi 👋, I'm वत्सल शर्मा </h1>
 <h3 align="center">A goal oriented , visionary individual seeking an organization that can make me more resourceful and innovative and enhance my skills so as to deliver value added results.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vatsal-sharma2003&label=Profile%20views&color=0e75b6&style=flat" alt="vatsal-sharma2003" /> </p>
