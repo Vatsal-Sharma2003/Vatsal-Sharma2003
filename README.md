@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm वत्सल शर्मा </h1>
 <h3 align="center">A goal oriented , visionary individual seeking an organization that can make me more resourceful and innovative and enhance my skills so as to deliver value added results.</h3>
+<div id="header" align="center">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHV3Y2pjNW9sbXVrczBtZHNmeHZycmx1bm5pbzgyZHZsbGd6dTMwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UDclWKlmfmq7twI3iJ/giphy.gif"  width="400"/> 
+</div>
+<div align="center">
+    
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=23&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&&lines=Welcome+to+my+Github+profile!;CSE'25+Undergrad;Passionate+about+Coding!)](https://git.io/typing-svg)
 
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vatsal-sharma2003&label=Profile%20views&color=0e75b6&style=flat" alt="vatsal-sharma2003" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vatsal-sharma2003" alt="vatsal-sharma2003" /></a> </p>
