@@ -1,4 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40"width="40" />, I'm <a href="https://www.linkedin.com/in/vatsalsharma08/" target="_blank">Vatsal Sharma</h1> </h1>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
     
 <h3 align="center">A goal oriented , visionary individual seeking an organization that can make me more resourceful and innovative and enhance my skills so as to deliver value added results.</h3>
 
@@ -72,6 +74,7 @@
 <div id="header" align="center">
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGF0aDNnNGs5MGJ2azc1NDQxZWN1ZHV6YnhyOTdtaDF6b2IzZXRiYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RJVw6tIfb2dIwTHFb0/giphy.gif"  width="400"/> 
 </div>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <div align="center"> 
     <h1> 
         <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3200&color=4FC3F7&center=true&vCenter=true&width=450&lines=Keep+Learning+and+Exploring!;Let's+code+together!" alt="Typing SVG"/> 
