@@ -13,13 +13,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vatsal-sharma2003&label=Profile%20views&color=0e75b6&style=flat" alt="vatsal-sharma2003" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vatsal-sharma2003" alt="vatsal-sharma2003" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/imvatsalsharma" target="blank"><img src="https://img.shields.io/twitter/follow/imvatsalsharma?logo=twitter&style=for-the-badge" alt="imvatsalsharma" /></a> </p>
+<br>
+<div align="center">
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=vatsal-sharma2003&theme=darkhub&column=9&margin-w=11" alt="GitHub Trophies" style="width: 120%; display: inline-block;" />
+</div>
+<br>
 
 - 🔭 I’m currently working on **Full Stack Project in Web Development and solving DSA Questions on daily basis to enhance my problem solving skills.**
 
-- 🌱 I’m currently learning **Javascript, NodeJS, React, CSS, Mysql, PHP, Wordpress, Angular,Springboot.**
+- 🌱 I’m currently learning **Javascript, NodeJS, React, CSS, Mysql **
 
 - 👯 I’m looking to collaborate on **Open Source Contributions and Hackathons.**
 
