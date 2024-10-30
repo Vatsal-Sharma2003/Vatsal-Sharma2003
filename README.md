@@ -8,7 +8,7 @@
 <div align="center">
     
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=23&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&&lines=Welcome+to+my+Github+profile!;CSE'25+Undergrad;Passionate+about+Coding!)](https://git.io/typing-svg)
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vatsal-sharma2003&label=Profile%20views&color=0e75b6&style=flat" alt="vatsal-sharma2003" /> </p>
@@ -32,10 +32,8 @@
 
 - 📫 How to reach me **vatsalsh3002@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/k6M5d](https://shorturl.at/k6M5d)
-
 - ⚡ Fun fact **I once turned a coffee spill into a coding breakthrough! Creativity strikes in the unlikeliest moments.**
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <h1 align="center">Connect with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="35"></h1>    
 <p align="center">
 <a href="https://twitter.com/imvatsalsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imvatsalsharma" height="30" width="40" /></a>
@@ -46,8 +44,8 @@
 <a href="https://www.leetcode.com/vatsalsharma08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vatsalsharma08" height="30" width="40" /></a>
 <a href="https://discord.gg/vatsalsharma5501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vatsalsharma5501" height="30" width="40" /></a>
 </p>
-
-<h1 align="center">Languages and Tools🗺️</h1>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<h1 align="center">Languages and Tools<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38"></h1>
 <p align="center"> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
@@ -61,7 +59,7 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 </p>
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <div align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vatsal-sharma2003&theme=github_dark" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vatsal-sharma2003&theme=github_dark"  />
@@ -70,7 +68,7 @@
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vatsal-sharma2003&theme=github_dark" />
 </div>
 
-<br>
+
 <div id="header" align="center">
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGF0aDNnNGs5MGJ2azc1NDQxZWN1ZHV6YnhyOTdtaDF6b2IzZXRiYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RJVw6tIfb2dIwTHFb0/giphy.gif"  width="400"/> 
 </div>
@@ -79,3 +77,4 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3200&color=4FC3F7&center=true&vCenter=true&width=450&lines=Keep+Learning+and+Exploring!;Let's+code+together!" alt="Typing SVG"/> 
     </h1>
 </div>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
