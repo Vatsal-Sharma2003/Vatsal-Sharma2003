@@ -11,7 +11,7 @@
 
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vatsal-sharma2003&label=Profile%20views&color=0e75b6&style=flat" alt="vatsal-sharma2003" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vatsal-sharma2003&label=Profile%20views&color=0e75b6&style=flat" alt="vatsal-sharma2003" /> </p>
 
 <br>
 <div align="center">
@@ -47,8 +47,8 @@
 <a href="https://discord.gg/vatsalsharma5501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vatsalsharma5501" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h1 align="center">Languages and Tools🗺️</h1>
+<p align="center"> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -62,11 +62,13 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsal-sharma2003&show_icons=true&locale=en&layout=compact" alt="vatsal-sharma2003" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vatsal-sharma2003&show_icons=true&locale=en" alt="vatsal-sharma2003" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vatsal-sharma2003&" alt="vatsal-sharma2003" /></p>
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vatsal-sharma2003&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vatsal-sharma2003&theme=github_dark"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vatsal-sharma2003&theme=github_dark"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vatsal-sharma2003&theme=github_dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vatsal-sharma2003&theme=github_dark" />
+</div>
 
 <br>
 <div id="header" align="center">
