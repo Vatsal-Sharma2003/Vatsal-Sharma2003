@@ -19,8 +19,8 @@ jobs:
     - name: Generate Snake GIF
       uses: Platane/snk@v2
       with:
-        github_user: 'Vatsal-Sharma2003' # your GitHub username
-        svg_out_path: './github-contribution-grid-snake.svg'
+        github_user_name: 'Vatsal-Sharma2003'  # Your GitHub username
+        outputs: './github-contribution-grid-snake.svg'
 
     - name: Commit snake gif
       uses: EndBug/add-and-commit@v7
@@ -29,3 +29,4 @@ jobs:
         author_email: '41898282+github-actions[bot]@users.noreply.github.com'
         message: 'Update snake gif for README'
         add: './github-contribution-grid-snake.svg'
+
