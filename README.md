@@ -16,10 +16,14 @@
 </div>
 
 <!-- TEXT WAVING--> 
-<div align="center">   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=23&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&&lines=Welcome+to+my+Github+profile!;CSE'25+Undergrad;Passionate+about+Coding!)](https://git.io/typing-svg)
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=23&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&&lines=Welcome+to+my+Github+profile!;CSE'25+Undergrad;Passionate+about+Coding!" alt="Typing SVG">
+  </a>
 </div>
+
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
 <!--PROFILE VIEWS --> 
@@ -144,8 +148,7 @@
 
 
 <!-- 3D SHOE -->
-![3D Profile](profile-3d-contrib/profile-night-green.svg?sanitize=true)
-## 🚀 3D PROFILE VIEW
+## ∞ 3D PROFILE VIEW
 
 ![3D Profile](profile-3d-contrib/profile-night-green.svg?sanitize=true)
 
