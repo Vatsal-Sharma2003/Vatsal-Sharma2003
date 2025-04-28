@@ -1,32 +1,36 @@
-name: Generate Snake GIF for README
+name: Generate Snake
 
 on:
-  push:
-    branches:
-      - main
-  pull_request:
-    branches:
-      - main
+  schedule:
+    # This will run the action every 6 hours
+    - cron: "0 */6 * * *"
+  
+  # This allows you to manually trigger the action from the Actions tab
+  workflow_dispatch:
 
 jobs:
-  generate-snake:
+  # This workflow contains a single job called "build"
+  build:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v2
+      # Step 1: Generate the snake game from the GitHub contributions graph
+      - name: Generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}  # Dynamically uses the repository owner as GitHub username
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Uses GitHub token to fetch contribution data
 
-    - name: Generate Snake GIF
-      uses: Platane/snk@v2
-      with:
-        github_user_name: 'Vatsal-Sharma2003'  # Your GitHub username
-        outputs: './github-contribution-grid-snake.svg'
-
-    - name: Commit snake gif
-      uses: EndBug/add-and-commit@v7
-      with:
-        author_name: 'github-actions[bot]'
-        author_email: '41898282+github-actions[bot]@users.noreply.github.com'
-        message: 'Update snake gif for README'
-        add: './github-contribution-grid-snake.svg'
+      # Step 2: Push the generated snake gif to a separate output branch (e.g., "output")
+      - name: Push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output  # Specify the output branch where you want to store the image
+          build_dir: dist  # Specify the directory where the svg files are stored
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Uses GitHub token to push changes to the output branch
 
