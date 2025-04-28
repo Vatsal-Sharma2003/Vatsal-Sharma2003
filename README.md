@@ -104,7 +104,7 @@
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-![snake gif](https://github.com/vatsal-sharma2003/vatsal-sharma2003/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Vatsal-Sharma2003/Vatsal-Sharma2003/blob/output/github-contribution-grid-snake.svg)
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <div>
